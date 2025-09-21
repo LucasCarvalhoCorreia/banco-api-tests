@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Este projeto realiza testes automatizados na API REST do [banco-api](https://github.com/LucasCarvalhoCorreia/banco-api), validando suas funcionalidades e contribuindo a qualidade de suas operações.
+Este projeto realiza testes automatizados na API REST do [banco-api]([https://github.com/LucasCarvalhoCorreia/banco-api](https://github.com/LucasCarvalhoCorreia/banco-api-tests)), validando suas funcionalidades e contribuindo a qualidade de suas operações.
 
 ## Stack utilizada
 
